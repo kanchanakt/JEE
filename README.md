@@ -1,1 +1,2 @@
 # JEE
+This project is a Java EE (JEE)-based web application designed to streamline student login and eligibility tracking for placement drives. The system allows students to securely log in using their credentials and view their personal academic details. Based on predefined criteria (such as percentage, branch, backlog status, etc.), the application displays a list of placement drives the student is eligible for.
